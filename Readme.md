@@ -8,6 +8,7 @@ This is an example from socket IO and express server
 
 start: Run de server
 
+note: Need to create .env file with **PORT** variable
 
 ### Dependencies
 
