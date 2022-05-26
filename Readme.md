@@ -16,8 +16,8 @@ note: Need to create .env file with **PORT** variable
 * **socket.io**: 4.5.0
 
 #### Running Server
-![picture 1](image/48155419a0d79bef31ea839c2eb8e0d754d6feacd929c4cd035137301bfa733d.gif)  
+![picture 1](images/48155419a0d79bef31ea839c2eb8e0d754d6feacd929c4cd035137301bfa733d.gif)  
 
 ### Log or server:
 
-![1653589036851.png](image/Readme/1653589036851.png)
+![1653589036851.png](images/1653589036851.png)
