@@ -1,8 +1,6 @@
 # Template for express and socket io server
 
-
 This is an example from socket IO and express server
-
 
 ## Scripts
 
@@ -17,8 +15,8 @@ note: Need to create .env file with **PORT** variable
 * **express**: 4.18.1
 * **socket.io**: 4.5.0
 
-
 #### Running Server
+![picture 1](image/48155419a0d79bef31ea839c2eb8e0d754d6feacd929c4cd035137301bfa733d.gif)  
 
 ### Log or server:
 
